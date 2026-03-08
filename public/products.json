@@ -1,0 +1,191 @@
+[
+  {
+    "product_name": "Amul Toned Milk",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/amul-moti-toned-milk-90-days-shelf-life/prid/34778", "price": 32 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/amul-moti-toned-milk/p/itmd5d181a7ff3b2?pid=MLKFP755QJEWSZZE", "price": 29 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/PQEFTLHDGO", "price": 29 },
+      "zepto": { "link": "https://www.zepto.com/pn/amul-moti-toned-milk-90-days-shelf-life/pvid/1638f685-befc-478e-95f8-2d92213866e7", "price": 32 }
+    }
+  },
+  {
+    "product_name": "Mother Dairy Classic Curd",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/mother-dairy-classic-pouch-pouch-curd/prid/86446", "price": 35 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/mother-dairy-classic-plain-curd/p/itmd1cbfc6ee4cc5?pid=CUYGYFKGUYUYV6HM", "price": 49 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/4OCA3DFCH9", "price": 50 },
+      "zepto": { "link": "https://www.zepto.com/pn/mother-dairy-classic-dahi-cup/pvid/11aef640-1525-4c3e-bda8-fb72b89225ed", "price": 50 }
+    }
+  },
+  {
+    "product_name": "Amul Butter",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/amul-salted-butter/prid/159", "price": 58 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/amul-school-pack-salted-butter/p/itma6a02a1892e5a?pid=BUTEZ6B3ZV3H3TBN", "price": 66 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/TN0BERMP8A", "price": 58 },
+      "zepto": { "link": "https://www.zepto.com/pn/amul-salted-butter/pvid/8da0c985-dc37-495c-a8bd-6019c120cb44", "price": 55 }
+    }
+  },
+  {
+    "product_name": "Coca Cola Zero Sugar",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/coca-cola-zero-sugar-soft-drink/prid/484783", "price": 36 },
+      "flipkart_minutes": { "link": null, "price": 38 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/EMY915RZMD", "price": 34 },
+      "zepto": { "link": "https://www.zepto.com/pn/coca-cola-soft-drink-carbonated-beverage/pvid/fed97af4-b3bb-44b4-9390-d2748ce7cdc1", "price": 34 }
+    }
+  },
+  {
+    "product_name": "Fresh White Eggs",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/licious-farm-fresh-classic-white-protein-rich-eggs/prid/498143", "price": 81 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/premium-agrros-hen-white-eggs/p/itm0d96a566ec31c?pid=EEGGHSB2FQZEHBG2", "price": 42 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/WCLL05LY9J", "price": 49 },
+      "zepto": { "link": "https://www.zepto.com/pn/fresh-white-eggs/pvid/bff6b7b2-9139-4a4f-ae21-90af16cd489d", "price": 45 }
+    }
+  },
+  {
+    "product_name": "Tata Salt",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/tata-salt-vacuum-evaporated-iodised/prid/105", "price": 27 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/tata-salt-free-flowing-iodised-namak-vacuum-evaporated-iodized/p/itmd266ce5ced18b?pid=SATET96PTFPYSQWM", "price": 25 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/5DMEFBCGC6", "price": 28 },
+      "zepto": { "link": "https://www.zepto.com/pn/tata-salt-iron-health/pvid/4578f580-9c43-4aba-8e8c-113a98522880", "price": 34 }
+    }
+  },
+  {
+    "product_name": "Smoodh",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/smoodh-chocolate-hazelnut-flavoured-milk-pet-bottle/prid/548060", "price": 18 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/smoodh-hazelnut-chocolate/p/itmca9f26f5f30c3?pid=MLKGXGFPKQRBRD88", "price": 18 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/1OF8SMDKQT", "price": 18 },
+      "zepto": { "link": "https://www.zepto.com/pn/smoodh-chocolate-and-hazelnut-milk-drink/pvid/ac044ae0-1096-4a9c-86f9-4aa6058ef5a6", "price": 18 }
+    }
+  },
+  {
+    "product_name": "Fortune Sugar",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/fortune-sulphurless-sugar/prid/429694", "price": 58 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/fortune-sugar/p/itm9d04652496d64?pid=SUGGYP4MEG8XQRVW", "price": 29 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/3YPF5VL873", "price": 61 },
+      "zepto": { "link": "https://www.zepto.com/pn/fortune-pure-hygienic-fine-grain-sugar/pvid/3ebbb85f-ac17-49af-b44e-7dea40fb9a27", "price": 51 }
+    }
+  },
+  {
+    "product_name": "Onion",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/onion-pyaz/prid/530158", "price": 29 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/onion/p/itmd8a3a28ca6356?pid=VEGF7FJ5UVTDPSRH", "price": 23 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/4M2JLMBEXY", "price": 29 },
+      "zepto": { "link": "https://www.zepto.com/pn/onion/pvid/5b5c1960-d2d1-4528-8a74-bc7280174071", "price": 41 }
+    }
+  },
+  {
+    "product_name": "Potato",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/potato-new-crop-aloo/prid/199435", "price": 17 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/potato-fresh-new-crop/p/itmf01cbe36a8db8?pid=VEGG6FK9GFUZ3J8E", "price": 26 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/A4RKJ8JRVI", "price": 26 },
+      "zepto": { "link": "https://www.zepto.com/pn/potato/pvid/a8043677-61c7-4af4-b784-b6aa225306a4", "price": 36 }
+    }
+  },
+  {
+    "product_name": "Tomato",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/hybrid-tomato-tamatar/prid/367909", "price": 20 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/tomato-local/p/itm48df1d6a884ae?pid=VEGF7FJ5GHASHZJT", "price": 23 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/search?custom_back=true&query=Tomato", "price": 20 },
+      "zepto": { "link": "https://www.zepto.com/pn/tomato-local/pvid/7e261768-88d6-4cbb-8b9b-8718625577bd", "price": 22 }
+    }
+  },
+  {
+    "product_name": "Banana",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/banana/prid/3874", "price": 41 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/banana-nendran/p/itm409094d79201b?pid=FRTHHY5YBA6QGZGG", "price": 55 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/8VKB2LMCNV", "price": 25 },
+      "zepto": { "link": "https://www.zepto.com/pn/banana-robusta/pvid/436c0025-de54-4748-a189-79e292f26071", "price": 40 }
+    }
+  },
+  {
+    "product_name": "Nescafe Classic Instant Coffee",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/nescafe-classic-100-pure-instant-coffee-powder-24-g/prid/13966", "price": 124 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/nescafe-classic-coffee-powder-jar-100-pure-instant/p/itm9d7afcc2d9b32?pid=CFEEX3YXGRAHPX8J", "price": 109 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/BWQTEA2LD6", "price": 124 },
+      "zepto": { "link": "https://www.zepto.com/pn/nescafe-classic-instant-coffee-powder-pure-coffee/pvid/8c7eb119-6eec-49d1-a70f-d758647d8b1b", "price": 124 }
+    }
+  },
+  {
+    "product_name": "Red Label Tea",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/brooke-bond-red-label-tea-500-g/prid/23664", "price": 233 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/red-label-natural-care-cardamom-ginger-liquorice-tulsi-tea-box/p/itmf9rgsp9bcdugr?pid=TEAETY5NKPGFGFZK", "price": 259 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/UVZZ50XQ0N", "price": 300 },
+      "zepto": { "link": "https://www.zepto.com/pn/brooke-bond-red-label-tea/pvid/2527dbce-7b96-47ef-9cfd-402411a99f27", "price": 241 }
+    }
+  },
+  {
+    "product_name": "Real Fruit Power Pomegranate",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/real-fruit-power-pomegranate-juice-1-l/prid/356", "price": 113 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/real-fruit-juice-pomegranate/p/itmez6k87utyrvjj?pid=DAJEUARY7DAEDHGF", "price": 96 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/11JNSWTAZQ", "price": 110 },
+      "zepto": { "link": "https://www.zepto.com/pn/dabur-real-masala-pomegranate-fruit-juice/pvid/3d8072e6-fd37-441c-856c-3c36dabcc6fc", "price": 71 }
+    }
+  },
+  {
+    "product_name": "KitKat",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/nestle-kitkat-4f-choco-wafer-chocolate/prid/212722", "price": 30 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/nestle-kitkat-4f-choco-coated-wafer-bar-perfect-valentine-breaks-bars/p/itmd019946e20ba8?pid=CHCEZX2N7Y6HHARF", "price": 26 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/P0HKV5HCON", "price": 30 },
+      "zepto": { "link": "https://www.zepto.com/pn/nestle-kitkat-4f-choco-wafer-bar-chocolate/pvid/f7ee6357-dc9d-4de4-a77e-87f74225d3a9", "price": 30 }
+    }
+  },
+  {
+    "product_name": "Kinder Joy",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/kinder-joy-blue/prid/19825", "price": 45 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/kinder-joy-blue-bites/p/itm2e42fb7b9dd72?pid=CHCEUUWUF8UUYF8E", "price": 39 },
+      "instamart": { "link": "https://www.flipkart.com/kinder-joy-blue-bites/p/itm2e42fb7b9dd72?pid=CHCEUUWUF8UUYF8E", "price": 176 },
+      "zepto": { "link": "https://www.zepto.com/pn/kinder-joy-single-pack-assorted/pvid/05fd7c7b-1e8b-45ce-8fac-2630951e1b10", "price": 40 }
+    }
+  },
+  {
+    "product_name": "Dettol Liquid Handwash",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/dettol-liquid-hand-wash-refill-pouch-original-germ-protection/prid/329292", "price": 174 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/dettol-original-liquid-soap-hand-wash-refill-pouch/p/itm6597dc83ff27e?pid=HWSESCZBVVHM6SHN", "price": 170 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/B92Y0NRU11", "price": 225 },
+      "zepto": { "link": "https://www.zepto.com/pn/dettol-original-hand-wash-refill-9999-germ-protection/pvid/82d72fd0-ca24-478a-8fdf-25327da27b68", "price": 92 }
+    }
+  },
+  {
+    "product_name": "Surf Excel Matic Liquid",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/surf-excel-front-load-liquid-detergent/prid/312032", "price": 255 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/surf-excel-matic-top-load-fresh-liquid-detergent/p/itmfhu5vdnnbzmsh?pid=LDTEUHDNRYSJR3MC", "price": 196 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/3BL4UHTBLF", "price": 93 },
+      "zepto": { "link": "https://www.zepto.com/pn/surf-excel-matic-front-load-detergent-liquid-refill-tough-dried-stain-removal/pvid/f05b7b1d-fcb5-4b4e-81f2-bc95664c2acb", "price": 222 }
+    }
+  },
+  {
+    "product_name": "Basmati Rice",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/fortune-rozana-gold-basmati-rice-long-grain/prid/73577", "price": 92 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/fortune-rozana-gold-basmati-rice-medium-grain/p/itmd6ca669830884?pid=RICETDHJWYCYGHHB", "price": 108 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/NFG7H3FNN6", "price": 93 },
+      "zepto": { "link": "https://www.zepto.com/pn/fortune-rozana-gold-basmati-rice/pvid/18e5789f-aab8-4281-8db4-380bb50a1c29", "price": 85 }
+    }
+  },
+  {
+    "product_name": "Snickers",
+    "platforms": {
+      "blinkit": { "link": "https://blinkit.com/prn/snickers-peanut-nougat-caramel-filled-bar/prid/560", "price": 45 },
+      "flipkart_minutes": { "link": "https://www.flipkart.com/snickers-peanut-filled-chocolate-loaded-nougat-caramel-bars/p/itm220b19b3de2a1?pid=CHCEX42BBBNRHUN8", "price": 35 },
+      "instamart": { "link": "https://www.swiggy.com/instamart/item/S361TDAEZY", "price": 42 },
+      "zepto": { "link": "https://www.zepto.com/pn/snickers-peanut-nougat-caramel-chocolate-bar/pvid/5a632153-3cb1-4996-9d19-5b6f3f8b115e", "price": 35 }
+    }
+  }
+]

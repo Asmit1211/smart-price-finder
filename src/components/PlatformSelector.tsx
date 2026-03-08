@@ -56,7 +56,7 @@ const PlatformCard = ({
   >
     {active && (
       <motion.div
-        layoutId="platform-check"
+        layoutId={`platform-check-${platform.id}`}
         className="absolute top-3 right-3 w-5 h-5 rounded-full bg-primary flex items-center justify-center"
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
@@ -64,7 +64,7 @@ const PlatformCard = ({
         <Check className="w-3 h-3 text-primary-foreground" />
       </motion.div>
     )}
-    <span className="text-3xl">{platform.logo}</span>
+    <img src={platform.logo} alt={platform.name} className="w-10 h-10 object-contain" />
     <span className="font-medium text-sm">{platform.name}</span>
   </motion.button>
 );

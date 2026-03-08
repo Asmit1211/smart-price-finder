@@ -5,9 +5,10 @@ import { searchSuggestions } from "@/data/mockData";
 
 interface HeroSectionProps {
   onSearch: (query: string) => void;
+  onExploreCategories: () => void;
 }
 
-const HeroSection = ({ onSearch }: HeroSectionProps) => {
+const HeroSection = ({ onSearch, onExploreCategories }: HeroSectionProps) => {
   const [query, setQuery] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [filteredSuggestions, setFilteredSuggestions] = useState<string[]>([]);
@@ -83,9 +84,24 @@ const HeroSection = ({ onSearch }: HeroSectionProps) => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          Compare prices across Amazon, Flipkart, JioMart & Blinkit in seconds.
+          Compare prices across Blinkit, Flipkart Minutes, Swiggy Instamart & Zepto in seconds.
           Never overpay again.
         </motion.p>
+
+        {/* Explore Categories Button */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.25 }}
+          className="mb-8 flex justify-center"
+        >
+          <button
+            onClick={onExploreCategories}
+            className="px-6 py-3 rounded-full border border-border/50 bg-card/50 hover:bg-card hover:border-primary/30 transition-all duration-200 text-sm font-medium"
+          >
+            🛒 Explore Categories
+          </button>
+        </motion.div>
 
         <motion.div
           ref={wrapperRef}
@@ -147,7 +163,7 @@ const HeroSection = ({ onSearch }: HeroSectionProps) => {
           transition={{ duration: 0.6, delay: 0.5 }}
         >
           <span>Popular:</span>
-          {["iPhone 15 Pro Max", "Sony WH-1000XM5", "MacBook Air M3"].map((item) => (
+          {["Amul Toned Milk", "Tata Salt", "KitKat"].map((item) => (
             <button
               key={item}
               onClick={() => {
